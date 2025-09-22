@@ -1,7 +1,7 @@
 # 📸 Photo Shoot Website
 
 A clean, responsive **Photo Shoot Portfolio Website** made by **Prachi Jadhav** showcasing photography, services, and team details.  
-Live Demo: [Photo Shoot Website](https://your-netlify-link-here)
+Live Demo: [Photo Shoot Website](https://photoshoot-website-prachi.netlify.app/)
 
 ---
 
